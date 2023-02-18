@@ -70,7 +70,7 @@
 ## [--> Click Here to Visit the Colab <--](https://colab.research.google.com/github/etherealxx/etherportal-webui-colab/blob/master/etherportal.ipynb)
 
 Simple quickstart guide are written there. Or, you can scroll to read more😊
-
+https://drive.google.com/file/d/1ItPOXxrrSZopT9yyVHWy03Wj6K9qrM0W/view?usp=share_link    -- use this ,copy and paste in manual steps link
 ## About
 
 <!--
